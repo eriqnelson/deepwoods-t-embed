@@ -1,0 +1,20 @@
+# PlatformIO
+.pio/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.elf
+*.bin
+*.map
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+*.log
